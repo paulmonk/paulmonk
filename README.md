@@ -17,22 +17,9 @@ Here are some ideas to get you started:
 
 ### Pleased to make your acquaintance! 😄
 
----
+Want to find out more of what it would be like to work with me? Have a look for yourself (or you can also reach out 😉)
 
-## :brain: Guiding Principles
-
-- Believe in People.
-- Everyone is a Leader.
-- Teamwork makes the dream work.
-- Perfect is the enemy of a job well done.
-- Seek Wisdom, not Knowledge.
-- Hope for the Best, Plan for the Worst.
-- Delegation is the Art of Trust.
-- Embrace the Chaos, balance with Order.
-- Open the Mind, Expand the Horizon.
-- Learn to fail.
-
-_Will prune, edit and expend with commentary in the future._
+[Working with Paul](https://docs.google.com/document/d/1EeknLYHiPmgZwp_1eXgm5OWyzHZlIeEvF4gdPja6Tqw/)
 
 ---
 
