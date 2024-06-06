@@ -13,9 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Welcome :wave:
+<h1 align="center">Hi! I'm Paul 👋</h1>
+<h3 align="center"><b>Data and Technology Leader</b></h3>
 
-### Pleased to make your acquaintance! 😄
+---
+
+Pleased to make your acquaintance! 😄
 
 Want to find out more of what it would be like to work with me? Have a look for yourself (or you can also reach out 😉)
 
@@ -44,7 +47,6 @@ Want to find out more of what it would be like to work with me? Have a look for 
   <!-- General -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
 </div>
 
 ---
